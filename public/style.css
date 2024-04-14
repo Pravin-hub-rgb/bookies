@@ -124,17 +124,6 @@
   font-size: 36px;
 }
 
-.sidepanel .botbut {
-  position: absolute;
-  bottom: 70px;
-  width: 98%;
-  text-align: center;
-  color: white;
-}
-.botbut .link {
-  border: none;
-}
-
 .openbtn {
   font-size: 20px;
   cursor: pointer;
